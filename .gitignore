@@ -49,4 +49,3 @@ fabric.properties`
 .DS_Store
 __pycache__
 .ipynb_checkpoints/
-data/*
